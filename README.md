@@ -1,3 +1,5 @@
+<img  src="https://github.com/Asifa-khatoon/Asifa-khatoon-/blob/main/Ak.jpg"> 
+
 <h1 align="center">Hi 👋, I'm Asifa khatoon</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="GIF">
