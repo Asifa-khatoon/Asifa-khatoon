@@ -1,4 +1,4 @@
-<img  src="https://github.com/Asifa-khatoon/Asifa-khatoon-/blob/main/Ak.jpg"> 
+<img  src="https://github.com/Asifa-khatoon/Asifa-khatoon-/blob/main/Ak.jpg">  
 
 <h1 align="center">Hi 👋, I'm Asifa khatoon</h1>
 <h3 align="center">A passionate frontend developer</h3>
